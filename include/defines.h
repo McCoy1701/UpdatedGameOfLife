@@ -1,0 +1,16 @@
+#ifndef __DEFINES_H__
+#define __DEFINES_H__
+
+#include <Archimedes.h>
+
+#define ARENA_WIDTH  SCREEN_WIDTH  * 4
+#define ARENA_HEIGHT SCREEN_HEIGHT * 4
+
+#define TILE_WIDTH  16
+#define TILE_HEIGHT 16
+
+#define WORLD_RENDER_WIDTH  ARENA_WIDTH  / TILE_WIDTH
+#define WORLD_RENDER_HEIGHT ARENA_HEIGHT / TILE_HEIGHT
+
+#endif
+
