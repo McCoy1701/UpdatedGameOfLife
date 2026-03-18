@@ -1,10 +1,10 @@
-Game of Life is a Cellular Automaton created by John Conway.
+#Game of Life is a Cellular Automaton created by John Conway.
 
 
 If you do find any bugs please report them in the comments. I am immensely grateful to those that do so. Thank you.
 
 
-Rules:
+##Rules:
 
     Any live cell with fewer than two live neighbors dies, as if by underpopulation.
 
@@ -15,7 +15,7 @@ Rules:
     Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 
-Controls:
+##Controls:
 
     Left-click: fill a cell
 
@@ -32,11 +32,11 @@ I rewrote my old clone of Game of Life in our new Archimedes engine. Sorry pygba
 I do not own Game Of Life, but all code, art, and animations were done by me (Jakester).
 
 
-Source Code:
+##Source Code:
 
     https://github.com/McCoy1701/UpdatedGameOfLife
 
 
-Read More:
+##Read More:
 
     https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
